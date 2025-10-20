@@ -70,14 +70,16 @@ Studied phishing techniques by analyzing phishing links and emails to understand
 ## Education & Certifications
 - *Cybersecurity Self-Study* - Ongoing practical learning through labs and CTF challenges
 - *Network Security Fundamentals* - Self-taught through hands-on projects
-- Cisco Netorking Academy
-- Udemy courses
+- *Mentorship* - MALhubng 
+- *Cisco Netorking Academy*
+- *Udemy courses*
 
 ---
 
 ## Contact Information
 - *GitHub:* [Adesewa29](https://github.com/Adesewa03)
 - *Twitter/X:* [@AdesolaAdeola19](https://twitter.com/AdesolaAdeola19)
-- linkedl
-- *Location:* Available upon request
+- *linkedln*: [Adeola Adesola](www.linkedin.com/in/adeola-adesola-178ab538a)
+- *instagram*:[@Crownbeauty03](https://www.instagram.com/crownbeauty_03/)
+- *Location:* Ilorin,Kwara State & Osun state
 
